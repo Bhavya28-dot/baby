@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 30px;
+    font-family:monospace;
+    color: brown;
+    border-radius: 10px;
+    padding: 5px;
+    border-style: solid;
+    width: 20%;
+    box-shadow: 5px 5px 5px gray;
+    border-style:dotted;
+}
+.heading_1{
+    font-size: 25px;
+    font-family:cursive;
+    color: brown;
+    border-radius: 10px;
+    padding: 5px;
+    border-style: solid;
+    width: 20%;
+    box-shadow: 5px 5px 5px gray; 
+    border-style: double;
+}
+
+#status, #number_of_objects
+{
+font-size: 20px;
+}
+
+body{
+    
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+}
